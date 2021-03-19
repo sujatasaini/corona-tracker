@@ -14,8 +14,9 @@ By the end of this video, you will have a strong understanding of React's workfl
 API used: https://covid19.mathdro.id/api
 
 Setup:
-- To Install the dependencies
+
+To Install the dependencies
 - ```npm install```
 
-- To run the app
+To run the app
 - ```npm start```
