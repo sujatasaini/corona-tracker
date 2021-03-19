@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-### [Live Site](https://covid19statswebsite.netlify.com/)
+### [Live Site](https://corotrack.netlify.app/)
 
 ![COVID-19 Tracker](https://i.ibb.co/X87BqVY/Screenshot-2020-04-13-at-10-14-58.png)
 
@@ -14,4 +14,8 @@ By the end of this video, you will have a strong understanding of React's workfl
 API used: https://covid19.mathdro.id/api
 
 Setup:
-- run ```npm i && npm start```
+- To Install the dependencies
+- ```npm install```
+
+- To run the app
+- ```npm start```
